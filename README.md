@@ -27,4 +27,4 @@ Permite procurar pelos dados completos de todos os meteoritos pertencentes a uma
 
 Permite gerar um gráfico com o número de meteoritos descobertos por ano em um dado intervalo de tempo passado em formato int para a função, além de um gráfico com o total de meteoritos por tipo descobertos neste intervalo. Ao final, a frequência dos dados é retornada.
 
-O livro com uma análise inicial da coleção de meteoritos brasileiros está disponível em: https://drive.google.com/file/d/16tR0_GGwjBFEdjYfRk4kwqdNeU26jjeK/view
+O livro com uma análise completa da coleção de meteoritos brasileiros está disponível em: https://drive.google.com/file/d/16tR0_GGwjBFEdjYfRk4kwqdNeU26jjeK/view
